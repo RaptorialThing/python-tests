@@ -1,2 +1,3 @@
 # python-tests
-This repo just for get experiens with GitHub, Python (2.7,3) Django(1.9.1), Selenium (Firefox webdriver)
+install python virtual env, activate it, install pip
+pip install Django==1.9.1 use Python 3.4.3
